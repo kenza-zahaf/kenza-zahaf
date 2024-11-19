@@ -1,16 +1,19 @@
-## Hi there 👋
+# Bonjour, je m’appelle kenza ! 👋
 
-<!--
-**kenza-zahaf/kenza-zahaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 À propos de moi
+Je suis une étudiante en première année d'informatique a la platefomre
 
-Here are some ideas to get you started:
+## 🛠 Compétences
+ HTML, CSS, VM,...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Autres sections de profil github courantes
+👩 💻 Je travaille actuellement a la plateforme
+
+🧠 Je suis en train d’apprendre la cybersecurité
+
+👯 ♀️ Je cherche une alternanace en cybersécurité
+
+📫 vous pouvez me joindre par mail: kenza.zahaf@laplateforme.io
+
+
+
